@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "produto": "Tablet",
+    "preço": 1500,
+    "descricao": "Excelent product",
+    "versao": 2,
+    "estoque": true,
+    "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/11/DSCF5936-scaled.jpg"
+  },
+  {
+    "id": 2,
+    "produto": "Telefone",
+    "preço": 3000,
+    "descricao": "Excelent product",
+    "versao": 5,
+    "estoque": true,
+    "image": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v2607343239221086555/products/215991.00-iphone-11-apple-branco-mhdc3br-a.jpg&height=475&width=475"
+  },
+  {
+    "id": 3,
+    "produto": "Notebook",
+    "preço": 4000,
+    "descricao": "Excelent product",
+    "versao": 1,
+    "estoque": true,
+    "image": "https://cdn.pixabay.com/photo/2018/11/03/21/04/notebook-3792835_1280.jpg"
+  }
+]
