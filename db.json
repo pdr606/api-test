@@ -2,30 +2,45 @@
   "products": [
     {
       "id": 1,
-      "produto": "Tablet",
-      "preço": 1500,
-      "descricao": "Excelent product",
-      "versao": 2,
-      "estoque": true,
-      "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/11/DSCF5936-scaled.jpg"
+      "produto": "Smartphone Samsung Galaxy A54 5G 128GB 8GB RAM Tela 6.4'' Câmera Tripla de até 50MP + Selfie 32MP",
+      "categoria": "Samsung",
+      "preço": 1.999,
+      "descricao": [
+        "128GB de Memória Interna(*) e 8GB RAM",
+        "Bateria de 5000mAh",
+        "Câmera Tripla Traseira de 50MP + 12MP + 5MP Selfie de 32MP",
+        "Tela Infinita de 6.4** 120Hz",
+        "Dual Chip, Dual Messenger"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61IgJvzu1eL._AC_UL320_.jpg"
     },
     {
       "id": 2,
-      "produto": "Telefone",
-      "preço": 3000,
-      "descricao": "Excelent product",
-      "versao": 5,
-      "estoque": true,
+      "produto": "Samsung Galaxy A14 128GB 5G Wi-Fi Tela 6.6'' Dual Chip 4GB RAM Câmera Tripla + Selfie 13MP Bateria de 5000mAh",
+      "categoria": "Samsung",
+      "preço": 1.282,
+      "descricao": [
+        "128GB de Memória Interna(*), 4GB RAM, RAM Plus",
+        "Bateria que dura o dia todo",
+        "Câmera Absurda de 50MP Selfies com Modo Retrato",
+        "Tela Infinita de 6.6 90Hz",
+        "Segurança reforçada com Leitor de Digital"
+      ],
       "image": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v2607343239221086555/products/215991.00-iphone-11-apple-branco-mhdc3br-a.jpg&height=475&width=475"
     },
     {
       "id": 3,
-      "produto": "Notebook",
-      "preço": 4000,
-      "descricao": "Excelent product",
-      "versao": 1,
-      "estoque": true,
-      "image": "https://cdn.pixabay.com/photo/2018/11/03/21/04/notebook-3792835_1280.jpg"
+      "produto": "Samsung Galaxy A04e 64GB 4G Wi-Fi Tela 6.5'' Dual Chip 3GB RAM Câmera Dupla + Selfie 5MP com modo Retrato Bateria de 5000mAh",
+      "categoria": "Samsung",
+      "preço": 1.099,
+      "descricao": [
+        "64GB de Memória Interna(*) + RAM Plus",
+        "Bateria de 5000mAh",
+        "Câmera Dupla com Modo Retrato Selfie com Modo Retrato",
+        "Tela Infinita de 6.5",
+        "Espaço para Cartão de Memória"
+      ],
+      "image": "https://m.media-amazon.com/images/I/81qbcjMUVsL._AC_UL320_.jpg"
     }
   ]
 }
