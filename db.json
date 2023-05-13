@@ -41,6 +41,20 @@
         "Espaço para Cartão de Memória"
       ],
       "image": "https://m.media-amazon.com/images/I/81qbcjMUVsL._AC_UL320_.jpg"
+    },
+    {
+      "id": 4,
+      "produto": "Samsung Galaxy A14 128GB 5G Wi-Fi Tela 6.6'' Dual Chip 4GB RAM Câmera Tripla + Selfie 13MP Bateria de 5000mAh",
+      "categoria": "Samsung",
+      "preço": 667,
+      "descricao": [
+        "128GB de Memória Interna(*), 4GB RAM, RAM Plus",
+        "Bateria que dura o dia todo",
+        "Câmera Absurda de 50MP Selfies com Modo Retrato",
+        "TTela Infinita de 6.6** 90Hz",
+        "Segurança reforçada com Leitor de Digital"
+      ],
+      "image": "https://m.media-amazon.com/images/I/81lgmUOK-uL._AC_UL320_.jpg"
     }
   ]
 }
