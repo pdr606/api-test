@@ -4,7 +4,7 @@
       "id": 1,
       "produto": "Smartphone Samsung Galaxy A54 5G 128GB 8GB RAM Tela 6.4'' Câmera Tripla de até 50MP + Selfie 32MP",
       "categoria": "Samsung",
-      "preço": 1.999,
+      "preço": "1.999",
       "descricao": [
         "128GB de Memória Interna(*) e 8GB RAM",
         "Bateria de 5000mAh",
@@ -18,7 +18,7 @@
       "id": 2,
       "produto": "Samsung Galaxy A14 128GB 5G Wi-Fi Tela 6.6'' Dual Chip 4GB RAM Câmera Tripla + Selfie 13MP Bateria de 5000mAh",
       "categoria": "Samsung",
-      "preço": 1.282,
+      "preço": "1.282",
       "descricao": [
         "128GB de Memória Interna(*), 4GB RAM, RAM Plus",
         "Bateria que dura o dia todo",
@@ -32,7 +32,7 @@
       "id": 3,
       "produto": "Samsung Galaxy A04e 64GB 4G Wi-Fi Tela 6.5'' Dual Chip 3GB RAM Câmera Dupla + Selfie 5MP com modo Retrato Bateria de 5000mAh",
       "categoria": "Samsung",
-      "preço": 1.099,
+      "preço": "1.099",
       "descricao": [
         "64GB de Memória Interna(*) + RAM Plus",
         "Bateria de 5000mAh",
@@ -46,7 +46,7 @@
       "id": 4,
       "produto": "Samsung Galaxy A14 128GB 5G Wi-Fi Tela 6.6'' Dual Chip 4GB RAM Câmera Tripla + Selfie 13MP Bateria de 5000mAh",
       "categoria": "Samsung",
-      "preço": 667,
+      "preço": "667",
       "descricao": [
         "128GB de Memória Interna(*), 4GB RAM, RAM Plus",
         "Bateria que dura o dia todo",
@@ -60,7 +60,7 @@
       "id": 5,
       "produto": "Apple iPhone 12 (64 GB)",
       "categoria": "Apple",
-      "preço": 3.74,
+      "preço": "3.740",
       "descricao": [
         "Tela Super Retina XDR de 6,1 polegadas",
         "Ceramic Shield. Mais resistente do que qualquer vidro de smartphone",
@@ -74,7 +74,7 @@
       "id": 6,
       "produto": "Apple iPhone 13 mini (128 GB)",
       "categoria": "Apple",
-      "preço": 3.74,
+      "preço": 4.679,
       "descricao": [
         "Tela Super Retina XDR de 5,4 polegadas",
         "O modo cinematic adiciona profundidade de campo rasa e muda o foco automaticamente em seus vídeos",
@@ -89,7 +89,7 @@
       "id": 7,
       "produto": "Apple iPhone 14 Pro Max",
       "categoria": "Apple",
-      "preço": 8.999,
+      "preço": "8.999",
       "descricao": [
         "Tela Super Retina XDR de 6,7 polegadas com tela Sempre Ativa e ProMotion",
         "Dynamic Island, uma nova forma de interação no iPhone",
@@ -108,7 +108,7 @@
       "id": 8,
       "produto": "Apple iPhone 13 Pro (256 GB)",
       "categoria": "Apple",
-      "preço": 8.499,
+      "preço": "8.499",
       "descricao": [
         "Tela Super Retina XDR de 6,1 polegadas com ProMotion para uma sensação mais rápida e responsiva",
         "O modo cinematic adiciona profundidade de campo rasa e muda o foco automaticamente em seus vídeos",
@@ -117,6 +117,47 @@
         "Chip biônico A15 para desempenho ultrarrápido"
       ],
       "image": "https://m.media-amazon.com/images/I/41K0G9FgD4L._AC_UL320_.jpg"
+    },
+    {
+      "id": 9,
+      "produto": "Smartphone Xiaomi Note 12 4G 128GB 6GB Ram (VERSAO GLOBAL)",
+      "categoria": "Xiaomi",
+      "preço": "1.300",
+      "descricao": [
+        "Carregador Padrão Brasileiro ou EUA, enviado conforme disponibilidade."
+      ],
+      "image": "https://m.media-amazon.com/images/I/61sr3hnxv-L._AC_UL320_.jpg"
+    },
+    {
+      "id": 10,
+      "produto": "Xiaomi POCO X5 5G Smartphone Dual Sim 256GB Memory 8GB RAM 6.67 AMOLED Display 5000mAh 48MP+13MP CAM",
+      "categoria": "Xiaomi",
+      "preço": "1.800",
+      "descricao": [
+        "-6,67 AMOLED FHD+ DotDisplay for Outstanding Visuals: POCO X5 5G apresenta um display elegante AMOLED de 120Hz, destacando-se da concorrência. Desfrute de visuais ricos e desempenho com melhor consumo de energia.",
+        "-48MP Al Triple Camera All In One Sistema de câmera All In One: O sistema de câmera tripla Al ultra-HD de 48MP com excelente otimização de cores e de imagem, facilmente manipula vários cenários de disparo para ajudar a dar vida ao seu trabalho"
+      ],
+      "image": "https://m.media-amazon.com/images/I/51tqdlQSgqL._AC_UL320_.jpg"
+    },
+    {
+      "id": 11,
+      "produto": "Smartphone Xiaomi Redmi Note 11S 6GB RAM 128GB",
+      "categoria": "Xiaomi",
+      "preço": "1.295",
+      "descricao": [
+        "ATENÇÃO: Versão INDIANA, com ROM GLOBAL, acompanha adaptador."
+      ],
+      "image": "https://m.media-amazon.com/images/I/51bnrgemNdL._AC_UL320_.jpg"
+    },
+    {
+      "id": 12,
+      "produto": "Xiaomi Celular Redmi A1 Desbloqueado, 2 Gb De Ram + 32 Gb De Rom, Tela De 6.52, Câmera De 8 Mp, Bateria De 5000 Mah Com Smartphone De Carregamento Rápido De 10 W",
+      "categoria": "Xiaomi",
+      "preço": "530",
+      "descricao": [
+        "Telefone desbloqueado de fábrica com Rom Global: Xiaomi Redmi A1 é um telefone modelo internacional desbloqueado de fábrica, compatível apenas com a maioria das operadoras GSM;"
+      ],
+      "image": "https://m.media-amazon.com/images/I/615O0z6987L._AC_UL320_.jpg"
     }
   ]
 }
