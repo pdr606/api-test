@@ -103,6 +103,20 @@
         "iOS 16, com ainda mais maneiras de personalizar, se comunicar e compartilhar"
       ],
       "image": "https://m.media-amazon.com/images/I/51misXwIxAL._AC_UL320_.jpg"
+    },
+    {
+      "id": 8,
+      "produto": "Apple iPhone 13 Pro (256 GB)",
+      "categoria": "Apple",
+      "preço": 8.499,
+      "descricao": [
+        "Tela Super Retina XDR de 6,1 polegadas com ProMotion para uma sensação mais rápida e responsiva",
+        "O modo cinematic adiciona profundidade de campo rasa e muda o foco automaticamente em seus vídeos",
+        "Sistema de câmera Pro com novas câmeras 12MP Telefoto, Wide e Ultra Wide; LiDAR Scanner; Alcance do zoom ótico 6x; macro fotografia; Estilos fotográficos, vídeo ProRes, Smart HDR 4, modo noturno, Apple ProRAW, gravação 4K Dolby Vision HDR",
+        "Câmera frontal TrueDepth de 12 MP com modo noturno, gravação 4K Dolby Vision HDR",
+        "Chip biônico A15 para desempenho ultrarrápido"
+      ],
+      "image": "https://m.media-amazon.com/images/I/41K0G9FgD4L._AC_UL320_.jpg"
     }
   ]
 }
