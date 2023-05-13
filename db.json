@@ -55,6 +55,54 @@
         "Segurança reforçada com Leitor de Digital"
       ],
       "image": "https://m.media-amazon.com/images/I/81lgmUOK-uL._AC_UL320_.jpg"
+    },
+    {
+      "id": 5,
+      "produto": "Apple iPhone 12 (64 GB)",
+      "categoria": "Apple",
+      "preço": 3.74,
+      "descricao": [
+        "Tela Super Retina XDR de 6,1 polegadas",
+        "Ceramic Shield. Mais resistente do que qualquer vidro de smartphone",
+        "A14 Bionic, o processador mais rápido de sempre num smartphone",
+        "Sistema de câmara dupla avançado de 12 MP (Ultra grande angular e Grande angular) com modo Noite, Deep Fusion, HDR inteligente 3, gravação em HDR 4K Dolby Vision",
+        "Câmara frontal TrueDepth de 12 MP com modo Noite, gravação em HDR 4K Dolby Vision"
+      ],
+      "image": "https://m.media-amazon.com/images/I/51misXwIxAL._AC_UL320_.jpg"
+    },
+    {
+      "id": 6,
+      "produto": "Apple iPhone 13 mini (128 GB)",
+      "categoria": "Apple",
+      "preço": 3.74,
+      "descricao": [
+        "Tela Super Retina XDR de 5,4 polegadas",
+        "O modo cinematic adiciona profundidade de campo rasa e muda o foco automaticamente em seus vídeos",
+        "Sistema avançado de câmera dupla com câmeras Wide e Ultra Wide de 12MP; Estilos fotográficos, Smart HDR 4, modo noturno, gravação 4K Dolby Vision HDR",
+        "Câmera frontal TrueDepth de 12 MP com modo noturno, gravação 4K Dolby Vision HDR",
+        "Chip biônico A15 para desempenho ultrarrápido",
+        "Até 17 horas de reprodução de vídeo"
+      ],
+      "image": "https://m.media-amazon.com/images/I/41MHywBltkL._AC_UL320_.jpg"
+    },
+    {
+      "id": 7,
+      "produto": "Apple iPhone 14 Pro Max",
+      "categoria": "Apple",
+      "preço": 8.999,
+      "descricao": [
+        "Tela Super Retina XDR de 6,7 polegadas com tela Sempre Ativa e ProMotion",
+        "Dynamic Island, uma nova forma de interação no iPhone",
+        "Câmera grande-angular de 48 MP para resolução até 4x maior",
+        "Modo Cinema, agora em 4K Dolby Vision até 30 qps",
+        "Modo Ação para vídeos em movimento com mais estabilidade",
+        "Tecnologia de segurança — Detecção de Acidente, que liga para a emergência se você não puder",
+        "Bateria para o dia todo e até 29 horas de reprodução de vídeo",
+        "A16 Bionic, o máximo em chip para smartphone. Rede celular 5G ultrarrápida",
+        "Durabilidade líder na indústria, com Ceramic Shield e resistência à água",
+        "iOS 16, com ainda mais maneiras de personalizar, se comunicar e compartilhar"
+      ],
+      "image": "https://m.media-amazon.com/images/I/51misXwIxAL._AC_UL320_.jpg"
     }
   ]
 }
